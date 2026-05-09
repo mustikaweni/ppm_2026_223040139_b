@@ -1,0 +1,1 @@
+ D:\\ppm_2026_223040139_b\\Pertemuan2\\.dart_tool\\flutter_build\\3b97edb9855976c841b277847e31b4d4\\native_assets.json: 

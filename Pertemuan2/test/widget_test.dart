@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
+import 'package:pertemuan_1/main.dart';
+=======
 import 'package:pertemuan2/main.dart';
+>>>>>>> 99570e7 (Initial commit: Profile Page sesuai Modul 2)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

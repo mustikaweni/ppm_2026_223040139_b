@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
+        android:label="pertemuan_1"
+=======
         android:label="pertemuan2"
+>>>>>>> 99570e7 (Initial commit: Profile Page sesuai Modul 2)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

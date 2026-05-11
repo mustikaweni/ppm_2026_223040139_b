@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# pertemuan_1
+=======
 # pertemuan2
+>>>>>>> 99570e7 (Initial commit: Profile Page sesuai Modul 2)
 
 A new Flutter project.
 

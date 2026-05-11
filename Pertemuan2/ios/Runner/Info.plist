@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
+	<string>Pertemuan 1</string>
+=======
 	<string>Pertemuan2</string>
+>>>>>>> 99570e7 (Initial commit: Profile Page sesuai Modul 2)
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
+	<string>pertemuan_1</string>
+=======
 	<string>pertemuan2</string>
+>>>>>>> 99570e7 (Initial commit: Profile Page sesuai Modul 2)
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
